@@ -11,8 +11,8 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import sun.java2d.marlin.Version;
 
-//TODO:FOLLOW CODING CONVENTION
-class CSVIndexing {
+
+class CsvIndexing {
     public static void main(String[] args) throws IOException {
 
         //directory is loaction of path
